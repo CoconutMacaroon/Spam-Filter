@@ -1,0 +1,5 @@
+﻿Dear Customer Person,
+We noticed that your password has recenently been changed on your bank. Please click the link below to confirm your credentials. Please don't call us.
+
+Thanks,
+Componey.
