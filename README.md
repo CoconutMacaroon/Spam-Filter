@@ -5,3 +5,5 @@ This Python 3 code detects and filters spam. The email in question goes into the
 # Future
 * Email program intigration
 * Better documentation
+# Files
+The `Email.txt` and the `Spam.txt` are both in the `static` folder. The file that acctually does the processing and gives the result is `main.py` and is in the home folder.
