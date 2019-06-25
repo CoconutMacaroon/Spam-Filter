@@ -11,4 +11,4 @@ The latest version will have the latest updates. Please note that older versions
 
 ## Reporting a Vulnerability
 
-If you find a security bug in this software, please report it under security. Do not create an issue for it.
+If you find a security bug in this software, please report it as a security vunderablity, rather than a bug.
