@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: What would you like to see?
+about: What would you like to see
 title: ''
 labels: ''
 assignees: ''
